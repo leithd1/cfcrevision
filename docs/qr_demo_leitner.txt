@@ -1,0 +1,10 @@
+text,"Quelle est la capitale de l'Allemagne?",text,"Berlin",3,2023-06-01
+image,question3.png,text,"La Tour Eiffel",1,2023-06-05
+text,"Quel est le résultat de 5 x 3?",text,"15",2,2023-06-10
+image,question4.png,image,answer4.png,3,2023-06-15
+text,"Qui a peint la Joconde?",text,"Léonard de Vinci",1,2023-06-20
+image,question5.png,text,"Le Nil",2,2023-06-25
+text,"Combien de continents y a-t-il sur Terre?",text,"7",3,2023-07-01
+image,question6.png,text,"Mars",1,2023-07-05
+text,"Quelle est la langue officielle du Brésil?",text,"Portugais",2,2023-07-10
+image,question7.png,image,answer7.png,3,2023-07-15

@@ -1,0 +1,4 @@
+question_type,question_content,answer_type,answer_content,box_number,last_reviewed
+text,"Quelle est la capitale de la France?",text,"Paris",1,2023-05-01
+image,question1.png,text,"42",2,2023-05-10
+text,"Combien font 2+2?",image,answer2.png,1,2023-05-15

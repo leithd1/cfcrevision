@@ -1,0 +1,83 @@
+question_content,answer_content,box_number,last_reviewed
+"Qu'est-ce que la résistance ?","l'opposion faite par un corps au passage du courant",1,2025-04-29
+"A quoi sert la résistance ?","une résistance sert souvent à produire de l'énergie calorifique, peut aussi être utilisée comme diviseur de tension",2,2025-04-29
+"A quoi sert le neutre ?","fixer un potentiel dans un circuit monophasé par rapport à la terre dans un but de protection et fixer le poteniel aux bornes de réceoteur monophasé utilisé dans un circuit triphasé déséquilibré",3,2025-04-29
+"Quand utilise-t-on des fils T ?","conducteur islolé utilisé pour l'alimentation de recepteur",4,2025-04-29
+"Quand utilise-t-on une corde T","utlisé lorsque la section des conducteurs est importante (dès env.25 mm2)",5,2025-04-29
+"Quelle est la différence entre Tdv et Td ?","le Tdv est renvorcé mécaniquement",6,2025-04-29
+"Comment produit-t-on du 230 V AC avec l’énergie solaire ?","il faut utiliser un onduleur",7,2025-04-29
+"Explique le fonctionnement des pompes à chaleur.","capter la chaleur de l'environnement (sol, air, eau,..)pour la restituer dans un circuit secondaire (chauffage)",8,2025-04-29
+"Qu'est-ce qu'un champ tournant ?","Un champ magnétique qui tourne (p.e. : dans un moteur)",9,2025-04-29
+"Citez différents types de source d'éclairage.","incandescence , lampe à décharge :vapeur métallique, induction (fait partie des vapeurs métalliques)",10,2025-04-29
+"Nommer tous les culots des lampes.","A baillonnette B22, BA15d, à vis E10, E14, E27, E40",11,2025-04-29
+"Où est-ce qu’on utilise les prises T12 et T13 ?","Dans les circuits monophasés 10 A / 230 V",12,2025-04-29
+"Peut-on installer une prise T 12 dans un garage ?","Oui, si au sec (evt protéger avec DDR 10 mA si besoin)",13,2025-04-29
+"Expliquer le fonctionnement des fers a repasser.","Un corps de chauffe, élève la température d'une plaque de base - la semelle, on peut produire de la vapeur en laissant tomber de l'eau contenue dans un réservoir sur cette semelle",14,2025-04-29
+"Quelle est la consommation des armatures TL","de 15 à 60 W",15,2025-04-29
+"Expliquer le fonctionnement des micros fusibles.","En cas de surchauffe, le fil fusible qui relie les deux extrémités (capsules métalliques) du fusible fond",16,2025-04-29
+"A quoi servent la self et le starter ?","à l'armorçage d'un tube TL, le starter coupe un circuit et permet à la self de provoquer des surtensions sur les électrodes du tube favorisant ainsi la ionisation du gaz",17,2025-04-29
+"Comment peut-on vérifier le fonctionnement d’un TL sans starter ?","En créant des coupures à la place du starter.",18,2025-04-29
+"Expliquer le fonctionnement d’un DDR.","Si la somme des courants L1 (L2, L3) N qui traverse le DDR n'est pas égale à 0, il y a une résultante magnétqiue qui si elle est due à un courant de défaut de plus de la moitier de la valeur de Idn, peut (ou doit) entraîner la coupure du circuit.",19,2025-04-29
+"Expliquer le fonctionnement des ampoules économique PL.","Elle fonctionne comme les tubes TL à alumage électronique soit lampe à vapeur de mercure basse pression",20,2025-04-29
+"Expliquer le fonctionnement des ampoules à décharge.","Le courant électrique traverse un gaz (sans filement) et la lumière eszt émise par la perte d'énergie (sous forme de photon) d'électrons qui changent de couche suite à un choc",21,2025-04-29
+"Avantage d’une lampe PL par rapport à un TL ?","la PL peut se mettre dans des luminaires traditionnels grâce à un culot E27 ou E14",22,2025-04-29
+"Qu’est-ce que le cycle d’hystérésis.","courbe d'aimentation des matériaux férromagnétiques",23,2025-04-29
+"Quelle est la distance du volume 1 et du volume 2 du bord d'une piscine ? ","le volume 1 à une largeur de 2m depuis la bassin, le volume 2 va de 2 m à 3,5m (donc largeur 1,5m)",24,2025-04-29
+"Dans une salle de bain, quel indice de protection utilisera-t-on ?","c'est un local sec : IP 21",25,2025-04-29
+"On a une prise en schéma TN-S. Peut-on rajouter une prise en raccordant en schéma TN-C ?","oui",26,2025-04-29
+"Qu’est ce que signifie TN-C-S et où applique-t-on ce schéma ?","cela veut dire qu'une partie de l'installation est en TN-C et une autre en TN-S, s'utilise par exemple si l'alimentation est en TN-C et la distribution en TN-S",27,2025-04-29
+"Quand peut-on faire du TN-C ?","A partir d'un section de conducteur PEN de 10mm2",28,2025-04-29
+"Quelle puissance calcule-t-on en mesurant U et I aux bornes d’un TL ?","Sa puissance apparente",29,2025-04-29
+"1800 W pour une bouilloire, Est-ce que c’est normal ?","oui",30,2025-04-29
+"Expliquer comment fonctionne la compensation du TL avec un condensateur.","le condensateur fournit de la puissance réactive capacitive qui diminue la réactive inductive du TL, remet en phase courant et tension",31,2025-04-29
+"Lorsque vous avez une chute de tension dans votre maison, que faut il faire ?","vérifier si la cause est due à une surconsomation dans votre maison, sinon avertir l'exploitant de réseau",32,2025-04-29
+"Comment doit être posée l’électrode de terre ?","Elle doit faire le tour du radier",33,2025-04-29
+"Un client vous propose une échelle, mais il lui manque un pachon. Que faites-vous si vous n’avez pas d’échelle avec vous ?","J'accepte évidemment, mais ne le dites pas à l'expert...",34,2025-04-29
+"Comment fait-on pour meuler un tournevis ?","Je mets des lunettes de protection",35,2025-04-29
+"Pourquoi a-t-on plus de pertes dans une self traditionnelle ?","Elle est le siège de pertes magnétiques et par effet joule que l'on a pas dans une self électronique",36,2025-04-29
+"Comment transforme-t-on l’énergie hydraulique en électricité ?","on turbine l'eau (énergie cinétique), qui entraîne un alternateur (magnétique), qui produit de l'élecftricité",37,2025-04-29
+"Quand produit-on l’énergie de pointe ?","généralement à 11h30 en hivers, mais avec l'arrivée des climatiseurs et des étés chaud, cela pourrait changer..",38,2025-04-29
+"Comment produit-on l’énergie de pointe ?","avec des centrales hydrauliques",39,2025-04-29
+"Que fait-on si l’on n'arrive pas a en produire assez d'électricité (pour couvrir une pointe de consomation par exemple) ?","on l'importe, sinon on coupe(ra) certains usagers",40,2025-04-29
+"Peut-on réenclencher un thermique moteur juste après son déclanchement ?","non, il doit refroidir",41,2025-04-29
+"Ordre à suivre pour le contrôle d’isolement.","avertir les utilisateurs, couper les conducteurs polaires, vérifier l'absence de tension, couper le neutre, à nouveau vérifier l'absence de tension, déconnecter les appareils, faire les mesures, refermer le sectionneur, décharger les lignes, réalimenter les conducteurs polaires, rebrancher les appareils ",42,2025-04-29
+"Quels sont les valeurs normalisées des DDR et a quoi servent ces valeurs ?","10mA (T12) et 30 mA pour la protection des personnes et 300mA pour la protection des biens",43,2025-04-29
+"Temps de déclenchement d’un DDR ?","300 ms selon la NIBT, en pratique ils coupent entre 20 et 35 ms (le type S peut déclencher entre 120 et 500 ms)",44,2025-04-29
+"Citer les types de cuisinières électriques !","plaque en fonte, vitrocéramique, halogène, induction",45,2025-04-29
+"Citer les types de chauffage !","accumulateur, convecteur avec ou sans ventilation, infrarouge, chauffage de sol, en natte, radian, plinthes chauffantes",46,2025-04-29
+"J’ai entendu dire que la PAC a un meilleur rendement que les autres systèmes. Je voudrai l’installer chez moi. Est-ce que je peux ?","Oui, mais il faut modifier votre installation existante",47,2025-04-29
+"Où peut-on installer les  PAC","partout",48,2025-04-29
+"Citer les différents systèmes PAC.","PaC air-eau, eau-eau  eau de surface, rivière, nappe phréatique; saumure/eau: géothermie de surface avec puits, nappe phréatique",49,2025-04-29
+"Corriger la phrase suivante : Une PAC a un rendement de 300.","on ne parle pas de rendement mais un coeficient de performence, et il est entre 2 et 5, 300 c'est trop.",50,2025-04-29
+"Expliquer le fonctionnement d'un disjoncteur.","coupure thermique (bilame) si surcharge et magnétique (bobine) si court-circuit.",51,2025-04-29
+"Comment fonctionnent les cuisinières à induction ?","La plaque est un générateur de champ magnetique variable, ce champ crée des courants induits dans les objets ferromagnétiques ce qui engendre un échauffement par effet joule",52,2025-04-29
+"A quoi sert la poudre fluorescente dans les TL ?","à modifier la longueur d'onde des photons (on passe des UV à la lumière visible)",53,2025-04-29
+"Comment fonctionnent les lampes à inductions ?","Elle sont construite avec une antenne magnétique qui génère des ondes à hautes fréquences qui vont induire des courants induits dans le gaz de la lampe (vapeur de mercure)",54,2025-04-29
+"Quelle est la différence entre tube acier et tube alu ?","principalement le poid",55,2025-04-29
+"Selon quel principe règle-t-on les thermiques des moteurs ?","la valeur réglée doit être celle inscrite sur la plaquette du moteur",56,2025-04-29
+"Que comprend une colonne montante ?","une distribution verticale depuis le point de coupure comprenand une boîte par étage",57,2025-04-29
+"Quel est le but des DIT ?","définir un niveau minimum d'exigence  de qualité",58,2025-04-29
+"A partir de quand applique-t-on les DIT ?","1er septembre 1998",59,2025-04-29
+"Citez moi des points de coupures.","répartiteur réseau, armoire de connexions, coupe-circuit",60,2025-04-29
+"Un câble blindé traverse 2 bâtiments. Doit-on mettre à terre les blindages ?","Il n'y a pas de règle générale, cela dépend de quelle perturbation on doit se protéger",61,2025-04-29
+"Décrire le fonctionnement des microphones","les variations de pression acoustiques sont transmisses à un noyau de bobine (ou par effet piezzo-électrique) ce qui génère des courants électriques variables",62,2025-04-29
+"Décrire le fonctionnement des écouteurs.","Le courant électrique variable traverse une bobine placée dans un champ magnétique fixe. La bobine est reliée mécaniquement à la membrane de l'écouteur qui produit ainsi des variation de pression acoustique (du son)",63,2025-04-29
+"Quelle distance devons-nous respecter entre les lignes hautes tensions et basses tensions ?","10 cm",64,2025-04-29
+"Citer une ligne à haute tension qui pourrait influencer le courant faible.","par exemple : alimentation d'une enseigne lumineuse",65,2025-04-29
+"Quels sont les différentes équipotentiels et mises a terre ou électrodes de terre en télécommunication ?","mise à terre ou électrodes de terre : celle du courant fort - radier, équipotentiel : celle de la basse tension + borne centrale de terre des télécom. ",66,2025-04-29
+"Quelle est la tension d’appelle sur une ligne téléphonique analogique ?","sonnerie : 70 V 23 Hz",67,2025-04-29
+"Quelle est la tension au repos d’une ligne téléphonique analogique ?","généralement 48 V DC",68,2025-04-29
+"Quel service obtient on en composant le 0844 854 103 ?","un service swisscom (fax)",69,2025-04-29
+"Quel genre d’essais fait-on en composant le 0844 854 103 ?","Fax ?",70,2025-04-29
+"Comment désactive-t-on le service « 21 » ?"," #21# ",71,2025-04-29
+"Comment programme-t-on un NT 1+2 ab ?","depuis une sortie analogique, **#73##, code , paramètre",72,2025-04-29
+"Sur quelles bornes raccorde-t-on le bus U sur une prise RJ45 ?","bornes 4 et 5",73,2025-04-29
+"Sur quelles bornes sur une prise TT83 raccorde-t-on le bus R ?","bornes A1, B1",74,2025-04-29
+"A quoi sert le relais a courant fort ?","alimenter des appreils 230 V (sonnerie, corne d'appel, lampes) avec le signal d'appel ",75,2025-04-29
+"Dans une installation numérique avec 6 appareils numériques et 2 appareils analogiques, peut-on ajouter un fax ?","sur la sortie analogique en // avec une station ou seul, mais les 2 téléphones analogiques seront en //",76,2025-04-29
+"Comment faire pour installer un fax et deux stations analogiques (rien en //) sur une ligne ISDN ?","on peut installer un ACU",77,2025-04-29
+"En numérique, Nommer tous les canaux et donner leurs débits. ","2 canaux B  à 64 kbits/s et canal D à 16 kbit/s",78,2025-04-29
+"Pourquoi met-on 2 résistances à la dernière prise ?","adapter les impédances de ligne , émission et réception",79,2025-04-29
+"C’est quoi l’avantage de l’ADSL par rapport  l’ISDN ?","vitesse de transmission plus élevée en ADSL, pas d'occupation de ligne par l'ADSL",80,2025-04-29
+"Citer les services supplémentaires de l’ISDN.","rappel, CFU, CFNR, CFB, retrodemande, TP, CLIR, OCB, identification de l'appelant",81,2025-04-29
+"Différence entre analogique et numérique.","",82,2025-04-29

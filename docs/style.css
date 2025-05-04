@@ -1,0 +1,50 @@
+/* Custom styles to complement Tailwind */
+.flashcard-container {
+    transition: opacity 0.3s ease;
+}
+
+.accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+.accordion-content.active {
+    max-height: 500px;
+}
+
+.question-content img,
+.answer-content img {
+    max-width: 100%;
+    max-height: 300px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+    object-fit: contain;
+}
+
+.card-item {
+    padding: 12px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-left: 4px solid #6c757d;
+    position: relative;
+}
+
+.card-item:hover {
+    background-color: #e9ecef;
+}
+
+.card-next-review {
+    font-size: 0.7rem;
+    color: #6c757d;
+    margin-top: 5px;
+}
+
+.empty-box {
+    color: #6c757d;
+    font-style: italic;
+    padding: 10px;
+}
