@@ -1,59 +1,59 @@
 question_content,answer_content,box_number,last_reviewed
-Qu'est-ce que la résistance ?|,opposition faite par un corps au passage du courant||,1,2025-04-29
-A quoi sert la résistance ?|,"une résistance sert souvent à produire de l'énergie calorifique, peut aussi être utilisée comme diviseur de tension||",2,2025-04-29
-A quoi sert le neutre ?|,fixer un potentiel dans un circuit monophasé par rapport à la terre dans un but de protection et fixer le potentiel aux bornes de récepteur monophasé utilisé dans un circuit triphasé déséquilibré||,3,2025-04-29
-Quand utilise-t-on des fils T ?|,conducteur isolé utilisé pour l'alimentation de récepteur||,4,2025-04-29
-Quand utilise-t-on une corde T|,utilisé lorsque la section des conducteurs est importante (dès env.25 mm2)||,5,2025-04-29
-Quelle est la différence entre Tdv et Td ?|,le Tdv est renforcé mécaniquement||,6,2025-04-29
-Comment produit-t-on du 230 V AC avec l’énergie solaire ?|,il faut utiliser un onduleur|,7,2025-04-29
-Explique le fonctionnement des pompes à chaleur.|,"capter la chaleur de l'environnement (sol, air, eau,..)pour la restituer dans un circuit secondaire (chauffage)|",8,2025-04-29
-Qu'est-ce qu'un champ tournant ?|,Un champ magnétique qui tourne (p.e. : dans un moteur)|,9,2025-04-29
-Citez différents types de source d'éclairage.|,"incandescence , lampe à décharge :vapeur métallique, induction (fait partie des vapeurs métalliques)|",10,2025-04-29
-Nommer tous les culots des lampes.|,"A baïonnette B22, BA15d, à vis E10, E14, E27, E40|",11,2025-04-29
-Expliquer le fonctionnement des fers a repasser.|,"Un corps de chauffe, élève la température d'une plaque de base - la semelle, on peut produire de la vapeur en laissant tomber de l'eau contenue dans un réservoir sur cette semelle|",12,2025-04-29
-Expliquer le fonctionnement des micros fusibles.|,"En cas de surchauffe, le fil fusible qui relie les deux extrémités (capsules métalliques) du fusible fond|",13,2025-04-29
-A quoi servent la self et le starter ?|,"à l’amorçage d'un tube TL, le starter coupe un circuit et permet à la self de provoquer des surtensions sur les électrodes du tube favorisant ainsi la ionisation du gaz|",14,2025-04-29
-Expliquer le fonctionnement d’un DDR.|,"Si la somme des courants L1 (L2, L3) N qui traverse le DDR n'est pas égale à 0, il y a une résultante magnétique qui si elle est due à un courant de défaut de plus de la moitié de la valeur de Idn, peut (ou doit) entraîner la coupure du circuit.|",15,2025-04-29
-Expliquer le fonctionnement des ampoules à décharge.|,Le courant électrique traverse un gaz (sans filament) et la lumière est émise par la perte d'énergie (sous forme de photon) d'électrons qui changent de couche suite à un choc|,16,2025-04-29
-Qu’est-ce que le cycle d’hystérésis.|,courbe d’alimentation des matériaux ferromagnétiques|,17,2025-04-29
-Quelle est la distance du volume 1 et du volume 2 du bord d'une piscine ? |,"le volume 1 à une largeur de 2m depuis la bassin, le volume 2 va de 2 m à 3,5m (donc largeur 1,5m)|",18,2025-04-29
-"Dans une salle de bain, quel indice de protection utilisera-t-on ?|",c'est un local sec : IP 21|,19,2025-04-29
-On a une prise en schéma TN-S. Peut-on rajouter une prise en raccordant en schéma TN-C ?|,oui|,20,2025-04-29
-Qu’est ce que signifie TN-C-S et où applique-t-on ce schéma ?|,"cela veut dire qu'une partie de l'installation est en TN-C et une autre en TN-S, s'utilise par exemple si l'alimentation est en TN-C et la distribution en TN-S|",21,2025-04-29
-Quand peut-on faire du TN-C ?|,A partir d'un section de conducteur PEN de 10mm2|,22,2025-04-29
-Quelle puissance calcule-t-on en mesurant U et I aux bornes d’un appareil inductif ?|,Sa puissance apparente|,23,2025-04-29
-"1800 W pour une bouilloire, Est-ce que c’est normal ?|",oui|,24,2025-04-29
-Expliquer comment fonctionne la compensation d'un récepteur avec un condensateur.|,"le condensateur fournit de la puissance réactive capacitive qui diminue la réactive inductive du TL, remet en phase courant et tension|",25,2025-04-29
-"Lorsque vous avez une chute de tension dans votre maison, que faut il faire ?|","vérifier si la cause est due à une surconsommation dans votre maison, sinon avertir l'exploitant de réseau|",26,2025-04-29
-Comment doit être posée l’électrode de terre ?|,Elle doit faire le tour du radier|,27,2025-04-29
-"Un client vous propose une échelle, mais il lui manque un pachon. Que faites-vous si vous n’avez pas d’échelle avec vous ?|","J'accepte évidemment, mais ne le dites pas à l'expert...|",28,2025-04-29
-Comment fait-on pour meuler un tournevis ?|,Je mets des lunettes de protection|,29,2025-04-29
-Pourquoi a-t-on plus de pertes dans une self traditionnelle ?|,Elle est le siège de pertes magnétiques et par effet joule que l'on a pas dans une self électronique|,30,2025-04-29
-Comment transforme-t-on l’énergie hydraulique en électricité ?|,"on turbine l'eau (énergie cinétique), qui entraîne un alternateur (magnétique), qui produit de l’électricité|",31,2025-04-29
-Quand produit-on l’énergie de pointe ?|,"généralement à 11h30 en hivers, mais avec l'arrivée des climatiseurs et des étés chaud, cela pourrait changer..|",32,2025-04-29
-Comment produit-on l’énergie de pointe ?|,avec des centrales hydrauliques|,33,2025-04-29
-Que fait-on si l’on n'arrive pas a en produire assez d'électricité (pour couvrir une pointe de consomation par exemple) ?|,"on l'importe, sinon on coupe(ra) certains usagers|",34,2025-04-29
-Peut-on réenclencher un thermique moteur juste après son déclenchement ?|,"non, il doit refroidir|",35,2025-04-29
-Ordre à suivre pour le contrôle d’isolement.|,"avertir les utilisateurs, couper les conducteurs polaires, vérifier l'absence de tension, couper le neutre, à nouveau vérifier l'absence de tension, déconnecter les appareils, faire les mesures, refermer le sectionneur, décharger les lignes, réalimenter les conducteurs polaires, rebrancher les appareils |",36,2025-04-29
-Quels sont les valeurs normalisées des DDR et a quoi servent ces valeurs ?|,10mA (T12) et 30 mA pour la protection des personnes et 300mA pour la protection des biens|,37,2025-04-29
-Temps de déclenchement d’un DDR ?|,"300 ms selon la NIBT, en pratique ils coupent entre 20 et 35 ms (le type S peut déclencher entre 120 et 500 ms)|",38,2025-04-29
-Citer les types de cuisinières électriques !|,"plaque en fonte, vitrocéramique, halogène, induction|",39,2025-04-29
-Citer les types de chauffage !|,"accumulateur, convecteur avec ou sans ventilation, infrarouge, chauffage de sol, en natte, radian, plinthes chauffantes|",40,2025-04-29
-J’ai entendu dire que la PAC a un meilleur rendement que les autres systèmes. Je voudrai l’installer chez moi. Est-ce que je peux ?|,"Oui, mais il faut modifier votre installation existante|",41,2025-04-29
-Où peut-on installer les  PAC|,partout|,42,2025-04-29
-Citer les différents systèmes PAC.|,"PAC air-eau, eau-eau  eau de surface, rivière, nappe phréatique; saumure/eau: géothermie de surface avec puits, nappe phréatique|",43,2025-04-29
-Corriger la phrase suivante : Une PAC a un rendement de 300.|,"on ne parle pas de rendement mais un coefficient de performance, et il est entre 2 et 5, 300 c'est trop.|",44,2025-04-29
-Expliquer le fonctionnement d'un disjoncteur.|,coupure thermique (bilame) si surcharge et magnétique (bobine) si court-circuit.|,45,2025-04-29
-Comment fonctionnent les cuisinières à induction ?|,"La plaque est un générateur de champ magnétique variable, ce champ crée des courants induits dans les objets ferromagnétiques ce qui engendre un échauffement par effet joule|",46,2025-04-29
-Quelle est la différence entre tube acier et tube alu ?|,principalement le poids|,47,2025-04-29
-Selon quel principe règle-t-on les thermiques des moteurs ?|,la valeur réglée doit être celle inscrite sur la plaquette du moteur|,48,2025-04-29
-Que comprend une colonne montante ?|,une distribution verticale depuis le point de coupure comprenant une boîte par étage|,49,2025-04-29
-Quel est le but des DIT ?|,définir un niveau minimum d'exigence  de qualité|,50,2025-04-29
-Citez moi des points de coupures.|,"répartiteur réseau, armoire de connexions, coupe-circuit|",51,2025-04-29
-Un câble blindé traverse 2 bâtiments. Doit-on mettre à terre les blindages ?|,"Il n'y a pas de règle générale, cela dépend de quelle perturbation on doit se protéger|",52,2025-04-29
-Décrire le fonctionnement des microphones|,les variations de pression acoustiques sont transmisses à un noyau de bobine (ou par effet piézo-électrique) ce qui génère des courants électriques variables|,53,2025-04-29
-Décrire le fonctionnement des écouteurs.|,Le courant électrique variable traverse une bobine placée dans un champ magnétique fixe. La bobine est reliée mécaniquement à la membrane de l'écouteur qui produit ainsi des variation de pression acoustique (du son)|,54,2025-04-29
-Quels sont les différentes équipotentiels et mises a terre ou électrodes de terre en télécommunication ?|,"mise à terre ou électrodes de terre : celle du courant fort - radier, équipotentiel : celle de la basse tension + borne centrale de terre des télécoms. |",55,2025-04-29
-Comment désactive-t-on le service « 21 » ?|, #21# |,56,2025-04-29
-A quoi sert le relais a courant fort ?|,"alimenter des appareils 230 V (sonnerie, corne d'appel, lampes) avec le signal d'appel |",57,2025-04-29
-Différence entre analogique et numérique.|,"Un signal analogique peut prendre une infinité de valeurs, reflétant fidèlement les variations du phénomène d’origine (par exemple, la courbe d’une onde sonore). Le signal numérique ne prend que deux valeurs possibles (0 ou 1) à chaque instant|",58,2025-04-29
+"Quelle est la définition d'une résistance électrique ?|","Un composant qui s'oppose au passage du courant électrique|","1","2025-04-29"
+"Quel est le rôle principal d'une résistance ?|","Principalement à convertir l'énergie électrique en chaleur, mais peut aussi servir de diviseur de tension|","2","2025-04-29"
+"Quelle est la fonction du conducteur neutre ?|","Établir une référence de potentiel par rapport à la terre pour la sécurité, et stabiliser la tension dans les circuits triphasés déséquilibrés|","3","2025-04-29"
+"Dans quels cas utilise-t-on des fils de type T ?|","Pour alimenter des appareils électriques avec des conducteurs isolés|","4","2025-04-29"
+"Quand doit-on utiliser une corde de type T ?|","Lorsque les conducteurs ont une section importante (à partir d'environ 25 mm²)|","5","2025-04-29"
+"Quelle différence existe-t-il entre Tdv et Td ?|","Le Tdv possède une meilleure résistance mécanique|","6","2025-04-29"
+"Comment obtenir du 230V alternatif à partir de l'énergie solaire ?|","En utilisant un convertisseur appelé onduleur|","7","2025-04-29"
+"Comment fonctionnent les pompes à chaleur ?|","Elles captent la chaleur présente dans l'environnement (sol, air, eau) pour la transférer vers un circuit de chauffage|","8","2025-04-29"
+"Définissez ce qu'est un champ tournant.|","Un champ magnétique dont l'orientation varie dans l'espace, comme dans un moteur électrique|","9","2025-04-29"
+"Quels sont les différents types de sources lumineuses ?|","Lampes à incandescence, à décharge (vapeurs métalliques), et à induction|","10","2025-04-29"
+"Quelles sont les principales bases de lampes ?|","Bases à baïonnette (B22, BA15d) et à vis (E10, E14, E27, E40)|","11","2025-04-29"
+"Comment fonctionne un fer à repasser électrique ?|","Une résistance chauffe la semelle, et la vapeur est produite par évaporation d'eau sur cette surface chaude|","12","2025-04-29"
+"Quel est le principe de fonctionnement d'un fusible miniature ?|","Un filament conducteur fond en cas de surintensité, interrompant le circuit|","13","2025-04-29"
+"A quoi servent une bobine d'inductance et un starter ?|","Ils permettent l'allumage des tubes fluorescents en générant une surtension nécessaire à l'ionisation du gaz|","14","2025-04-29"
+"Comment fonctionne un disjoncteur différentiel ?|","Il compare les courants phase et neutre, et déclenche si la différence dépasse un seuil (généralement 30mA)|","15","2025-04-29"
+"Quel est le principe de fonctionnement des lampes à décharge ?|","Un gaz ionisé émet de la lumière lorsque les électrons changent de niveau d'énergie|","16","2025-04-29"
+"Qu'est-ce que la courbe d'hystérésis magnétique ?|","Elle représente les propriétés magnétiques des matériaux ferromagnétiques|","17","2025-04-29"
+"Quelles sont les dimensions des volumes 1 et 2 autour d'une piscine ?|","Volume 1 : 2m depuis le bord, Volume 2 : de 2m à 3.5m (1.5m de largeur)|","18","2025-04-29"
+"Quel indice IP utiliser dans une salle de bain ?|","IP21 pour un local sec|","19","2025-04-29"
+"Peut-on mixer les schémas TN-S et TN-C sur une même installation ?|","Oui, c'est possible|","20","2025-04-29"
+"Que signifie TN-C-S et où l'utilise-t-on ?|","Système mixte combinant TN-C (alimentation) et TN-S (distribution), utilisé par exemple quand l'alimentation est en TN-C|","21","2025-04-29"
+"Quand peut-on utiliser le schéma TN-C ?|","Lorsque le conducteur PEN a une section d'au moins 10mm²|","22","2025-04-29"
+"Que mesure-t-on en relevant U et I sur un appareil inductif ?|","La puissance apparente (en VA)|","23","2025-04-29"
+"Une bouilloire de 1800W est-elle normale ?|","Oui, c'est une puissance courante|","24","2025-04-29"
+"Comment compenser l'énergie réactive d'un récepteur ?|","En ajoutant un condensateur qui fournit de l'énergie réactive capacitive|","25","2025-04-29"
+"Que faire en cas de chute de tension dans une habitation ?|","Vérifier d'abord la consommation interne, puis contacter le gestionnaire de réseau si nécessaire|","26","2025-04-29"
+"Comment installer correctement une prise de terre ?|","En faisant une boucle autour des fondations|","27","2025-04-29"
+"Que faire si une échelle prêtée manque un pied ?|","L'utiliser avec prudence (réponse humoristique)|","28","2025-04-29"
+"Comment affûter un tournevis en sécurité ?|","En portant des lunettes de protection|","29","2025-04-29"
+"Pourquoi les selfs traditionnelles ont-elles plus de pertes ?|","À cause des pertes magnétiques et par effet Joule, absentes dans les selfs électroniques|","30","2025-04-29"
+"Comment convertir l'énergie hydraulique en électricité ?|","En utilisant une turbine actionnée par l'eau pour entraîner un alternateur|","31","2025-04-29"
+"Quand survient la pointe de consommation électrique ?|","Typiquement en milieu de journée en hiver, mais cela évolue avec la climatisation estivale|","32","2025-04-29"
+"Comment produit-on l'électricité de pointe ?|","Grâce aux centrales hydroélectriques|","33","2025-04-29"
+"Que faire en cas de production électrique insuffisante ?|","Importer de l'électricité ou procéder à des délestages|","34","2025-04-29"
+"Peut-on réarmer un disjoncteur moteur immédiatement ?|","Non, il faut attendre son refroidissement|","35","2025-04-29"
+"Quelle est la procédure pour un contrôle d'isolement ?|","Couper l'alimentation, vérifier l'absence de tension, isoler les appareils, mesurer, puis tout remettre en service|","36","2025-04-29"
+"Quelles sont les sensibilités standard des DDR ?|","10mA/30mA pour la protection des personnes, 300mA pour les biens|","37","2025-04-29"
+"Quel est le temps de déclenchement d'un DDR ?|","Théoriquement 300ms max, mais en pratique 20-35ms (sauf type S : 120-500ms)|","38","2025-04-29"
+"Quels sont les types de cuisinières électriques ?|","Fonte, vitrocéramique, halogène, induction|","39","2025-04-29"
+"Citez différents systèmes de chauffage électrique.|","Accumulation, convection, rayonnement infrarouge, plancher chauffant|","40","2025-04-29"
+"Les pompes à chaleur sont-elles toujours adaptées ?|","Oui, mais nécessitent souvent une adaptation de l'installation existante|","41","2025-04-29"
+"Où installer une pompe à chaleur ?|","Dans tous types d'environnements|","42","2025-04-29"
+"Quels sont les différents types de PAC ?|","Air-eau, eau-eau, géothermiques|","43","2025-04-29"
+"Corrigez : "Une PAC a un rendement de 300".|","On parle de COP (Coefficient de Performance), généralement compris entre 2 et 5|","44","2025-04-29"
+"Comment fonctionne un disjoncteur ?|","Déclenchement thermique (surcharge) et magnétique (court-circuit)|","45","2025-04-29"
+"Quel est le principe des plaques à induction ?|","Génération de courants induits dans les récipients par champ magnétique variable|","46","2025-04-29"
+"Quelle différence entre tubes acier et aluminium ?|","Principalement leur poids|","47","2025-04-29"
+"Comment régler les protections thermiques des moteurs ?|","Selon la valeur indiquée sur la plaque signalétique|","48","2025-04-29"
+"Que contient une colonne montante ?|","Une distribution verticale avec boîtiers par étage, depuis le point de coupure|","49","2025-04-29"
+"A quoi servent les DIT ?|","À définir des standards minimaux de qualité|","50","2025-04-29"
+"Citez des points de coupure électrique.|","Répartiteurs, armoires de connexion, coupe-circuits|","51","2025-04-29"
+"Faut-il mettre à terre les blindages entre bâtiments ?|","Cela dépend des perturbations à éviter|","52","2025-04-29"
+"Comment fonctionne un microphone ?|","Conversion des ondes sonores en signal électrique par déplacement d'une bobine ou effet piézo|","53","2025-04-29"
+"Comment fonctionnent les écouteurs ?|","Un courant variable fait vibrer une membrane via une bobine dans un champ magnétique|","54","2025-04-29"
+"Quelles sont les liaisons à la terre en télécom ?|","Terre courant fort (radier) et équipotentiel BT + télécoms|","55","2025-04-29"
+"Comment désactiver la renvoi d'appel ?|","En composant #21#|","56","2025-04-29"
+"A quoi sert un relais courant fort ?|","Commander des appareils 230V avec un signal d'appel|","57","2025-04-29"
+"Différence entre analogique et numérique ?|","Un signal analogique peut prendre une infinité de valeurs, reflétant fidèlement les variations du phénomène d’origine (par exemple, la courbe d’une onde sonore). Le signal numérique ne prend que deux valeurs possibles (0 ou 1) à chaque instant|","58","2025-04-29"
