@@ -4,28 +4,28 @@ question_content,answer_content,box_number,last_reviewed
 "Signification de l'acronyme AM|","AM Modulation d'amplitude|",3,2025-05-03
 "Signification de l'acronyme BEP(HAK)|","BEP Building Entry Point pour fibre optique(Hausanschlusskasten)|",4,2025-05-03
 "Signification de l'acronyme BRI|","BRI Basic Rate Interface|",5,2025-05-04
-"Signification de l'acronyme CAT-iq|","CAT-iq Cordless Advanced Technology - internet and quality|",6,2025-05-05
-"Signification de l'acronyme CATV|","CATV TV par câble|",7,2025-05-03
-"Signification de l'acronyme CEM|","CEM Compatibilité électromagnétique|",8,2025-05-03
-"Signification de l'acronyme CLIP|","CLIP Calling Line Identification Identification de l'appelant|",9,2025-05-03
-"Signification de l'acronyme CLIR|","CLIR Calling Line Identification Restriction  (sans CLIP)|",10,2025-05-03
-"Signification de l'acronyme CT / CT1|","CT / CT1 Cordless Telephone|",11,2025-05-03
-"Signification de l'acronyme CTI|","CTI Computer Telephone Integration|",12,2025-05-03
-"Signification de l'acronyme CUC|","CUC Câblage universel de communication|",13,2025-05-03
-"Signification de l'acronyme dB|","dB décibel|",14,2025-05-03
-"Signification de l'acronyme DDI|","DDI Direct Dial In (plage de numéros de lignes directes)|",15,2025-05-03
-"Signification de l'acronyme DECT|","DECT Digital Enhanced Cordless Telecommunication|",16,2025-05-03
-"Signification de l'acronyme DHCP|","DHCP Dynamic Host Configuration Protocol|",17,2025-05-03
-"Signification de l'acronyme DiSEqC|","DiSEqC Digital Satellite Equipment Control (commande LNB)|",18,2025-05-03
-"Signification de l'acronyme DRAM|","DRAM Dynamic Random Access Memory|",19,2025-05-03
-"Signification de l'acronyme DSL|","DSL Digital Subscriber Line|",20,2025-05-03
-"Signification de l'acronyme DTMF|","DTMF Dual Tone Multi-Frequency|",21,2025-05-03
-"Signification de l'acronyme DV|","DV Distributeur à connexion directe|",22,2025-05-03
-"Signification de l'acronyme DVB-C|","DVB-C Digital Video Broadcasting - Cable|",23,2025-05-03
-"Signification de l'acronyme DVB-S|","DVB-S Digital Video Broadcasting - Satellite|",24,2025-05-03
-"Signification de l'acronyme DVB-T|","DVB-T Digital Video Broadcasting - Terrestrial|",25,2025-05-03
-"Signification de l'acronyme Ecomode|","Ecomode DECT avec rayonnement réduit|",26,2025-05-03
-"Signification de l'acronyme EDGE|","EDGE Enhanced Data Rates for GSM Evolution (2G)|",27,2025-05-03
+"Signification de l'acronyme CATV|","CATV TV par câble|",6,2025-05-03
+"Signification de l'acronyme CEM|","CEM Compatibilité électromagnétique|",7,2025-05-03
+"Signification de l'acronyme CLIP|","CLIP Calling Line Identification Identification de l'appelant|",8,2025-05-03
+"Signification de l'acronyme CLIR|","CLIR Calling Line Identification Restriction  (sans CLIP)|",9,2025-05-03
+"Signification de l'acronyme CT / CT1|","CT / CT1 Cordless Telephone|",10,2025-05-03
+"Signification de l'acronyme CTI|","CTI Computer Telephone Integration|",11,2025-05-03
+"Signification de l'acronyme CUC|","CUC Câblage universel de communication|",12,2025-05-03
+"Signification de l'acronyme dB|","dB décibel|",13,2025-05-03
+"Signification de l'acronyme DDI|","DDI Direct Dial In (plage de numéros de lignes directes)|",14,2025-05-03
+"Signification de l'acronyme DECT|","DECT Digital Enhanced Cordless Telecommunication|",15,2025-05-03
+"Signification de l'acronyme DHCP|","DHCP Dynamic Host Configuration Protocol|",16,2025-05-03
+"Signification de l'acronyme DiSEqC|","DiSEqC Digital Satellite Equipment Control (commande LNB)|",17,2025-05-03
+"Signification de l'acronyme DRAM|","DRAM Dynamic Random Access Memory|",18,2025-05-03
+"Signification de l'acronyme DSL|","DSL Digital Subscriber Line|",19,2025-05-03
+"Signification de l'acronyme DTMF|","DTMF Dual Tone Multi-Frequency|",20,2025-05-03
+"Signification de l'acronyme DVB-C|","DVB-C Digital Video Broadcasting - Cable|",21,2025-05-03
+"Signification de l'acronyme DVB-S|","DVB-S Digital Video Broadcasting - Satellite|",22,2025-05-03
+"Signification de l'acronyme DVB-T|","DVB-T Digital Video Broadcasting - Terrestrial|",23,2025-05-03
+"Signification de l'acronyme Ecomode|","Ecomode DECT avec rayonnement réduit|",24,2025-05-03
+"Signification de l'acronyme EDGE|","EDGE Enhanced Data Rates for GSM Evolution (2G)|",25,2025-05-03
+"Signification de l'acronyme ESTI|","ESTI Eidgenössisches Starkstrominspektorat(Inspection fédérale des installations à courant fort)|",26,2025-05-03
+"Signification de l'acronyme ETSI|","ETSI European Telecommunications Standards Institute|",27,2025-05-03
 "Signification de l'acronyme FC|","FC Fiber Cupler (connecteur de FO)|",28,2025-05-03
 "Signification de l'acronyme FDDI|","FDDI Fiber Distributed Data Interface|",29,2025-05-03
 "Signification de l'acronyme FEXT|","FEXT Far End CrossTalk (télédiaphonie)|",30,2025-05-03
@@ -35,40 +35,41 @@ question_content,answer_content,box_number,last_reviewed
 "Signification de l'acronyme FTP|","FTP Foiled Twisted Pair|",34,2025-05-03
 "Signification de l'acronyme FTTH /D /S /C|","FTTC Fiber to the curb (Fibre jusqu'au trottoir)/FTTS Fiber to the street (Fibre jusqu'à la rue - bâtiment)/FTTN Fiber to the neighbourhood (Fibre jusqu'au quartier)/FTTB Fiber to the building (Fibre jusqu'au bâtiment)/FTTCab Fiber to the cab (Fibre jusqu'au sous-répartiteur)/FTTP Fiber to the premises (Fibre jusqu'aux locaux - entreprises)/FTTH Fiber to the home (Fibre jusqu'au domicile)/FTTE Fibre to the enterprise (Fibre pour les entreprises)/FTTO Fiber to the office (Fibre jusqu'au bureau - entreprises)/FTTLA Fiber to the last amplifier (Fibre jusqu'au dernier amplificateur)|images_reponses/FTTX-fr.svg.png",35,2025-05-03
 "Signification de l'acronyme G.fast|","G.fast Successeur de VDSL2 Vectoring (jusqu'à 1 Gbit/s)|",36,2025-05-03
-"Signification de l'acronyme GAP|","GAP Generic Access Profile (mode de compatibilité mobile)|",37,2025-05-03
-"Signification de l'acronyme GPRS|","GPRS General Packet Radio Service ⇒ GSM|",39,2025-05-03
-"Signification de l'acronyme GSM|","GSM Global System for Mobile Communication|",40,2025-05-03
-"Signification de l'acronyme HAK(BEP)|","Hausanschlusskasten(BEP Building Entry Point pour fibre optique)|",41,2025-05-03
-"Signification de l'acronyme HUP|","HUP : Hausübergabepunkt (Point de transfert dans le bâtiment)|",42,2025-05-03
-"Signification de l'acronyme HDLS|","HDLS High Data Rate Digital Subscriber Line|",43,2025-05-03
-"Signification de l'acronyme HTTP|","HTTP Hypertext Transfer Protocol|",44,2025-05-03
-"Signification de l'acronyme HiFi|","HiFi High Fidelity|",45,2025-05-03
-"Signification de l'acronyme ICT|","ICT Information and Communication Technologies|",46,2025-05-03
-"Signification de l'acronyme IP|","IP Protocole Internet|",47,2025-05-03
-"Signification de l'acronyme ISP|","ISP Internet Service Provider (Swisscom, Sunrise, …)|",48,2025-05-03
-"Signification de l'acronyme KNX|","KNX Successeur de l'EIB|",49,2025-05-03
-"Signification de l'acronyme LAN|","LAN Local Area Network|",50,2025-05-03
-"Signification de l'acronyme LNB|","LNB Low Noise Block Converter|",51,2025-05-03
-"Signification de l'acronyme LNC|","LNC Low Noise Converter|",52,2025-05-03
-"Signification de l'acronyme LTC|","LTC Loi sur les télécommunications|",53,2025-05-03
-"Signification de l'acronyme LTE|","LTE Long Term Evolution (standard 4G+ jusqu'à 1 Gbit/s)|",54,2025-05-03
-"Signification de l'acronyme LWL(FO)|","LWL Lichtwellenleiter(FO Fibre optique)|",55,2025-05-03
-"Signification de l'acronyme NAG|","NAG Unité de terminaison du réseau|",56,2025-05-03
-"Signification de l'acronyme NAS|","NAS Network Attached Storage|",57,2025-05-03
-"Signification de l'acronyme NEXT|","NEXT Near End Crosstalk (paradiaphonie ou diaphonie locale)|",58,2025-05-03
-"Signification de l'acronyme NTP|","NTP Network Termination Point|",59,2025-05-03
-"Signification de l'acronyme NTS|","NTS Point de coupure|",60,2025-05-03
-"Signification de l'acronyme OFCOM|","OFCOM Office fédéral de la communication|",61,2025-05-03
-"Signification de l'acronyme OM|","OM Optical Multimode|",62,2025-05-03
-"Signification de l'acronyme ONT|","ONT Optical Network Termination ( FO ⇒ Cu )|",63,2025-05-03
-"Signification de l'acronyme OS|","OS Optical Single Mode|",64,2025-05-03
-"Signification de l'acronyme OSI|","OSI Open Systems Interconnection|",65,2025-05-03
-"Signification de l'acronyme OTDR|","OTDR Optical Time Domain Reflectrometry|",66,2025-05-03
-"Signification de l'acronyme OTO|","OTO Optical Telecommunications Outlet|",67,2025-05-03
-"Signification de l'acronyme PBX|","PBX Private Branch Exchange (voir ACU)|",68,2025-05-03
-"Signification de l'acronyme PCM|","PCM Pulse Code Modulation|",69,2025-05-03
-"Signification de l'acronyme PoE|","PoE Power over Ethernet|",70,2025-05-03
-"Signification de l'acronyme POF|","POF Plastic Optical Fibre|",71,2025-05-03
+"Signification de l'acronyme GPRS|","GPRS General Packet Radio Service ⇒ GSM|",37,2025-05-03
+"Signification de l'acronyme GSM|","GSM Global System for Mobile Communication|",38,2025-05-03
+"Signification de l'acronyme HAK(BEP)|","Hausanschlusskasten(BEP Building Entry Point pour fibre optique)|",39,2025-05-03
+"Signification de l'acronyme HUP|","HUP : Hausübergabepunkt (Point de transfert dans le bâtiment)|",40,2025-05-03
+"Signification de l'acronyme HDLS|","HDLS High Data Rate Digital Subscriber Line|",41,2025-05-03
+"Signification de l'acronyme HTTP|","HTTP Hypertext Transfer Protocol|",42,2025-05-03
+"Signification de l'acronyme HiFi|","HiFi High Fidelity|",43,2025-05-03
+"Signification de l'acronyme ICT|","ICT Information and Communication Technologies|",44,2025-05-03
+"Signification de l'acronyme IP|","IP Protocole Internet|",45,2025-05-03
+"Signification de l'acronyme ISP|","ISP Internet Service Provider (Swisscom, Sunrise, …)|",46,2025-05-03
+"Signification de l'acronyme KNX|","KNX Successeur de l'EIB|",47,2025-05-03
+"Signification de l'acronyme LAN|","LAN Local Area Network|",48,2025-05-03
+"Signification de l'acronyme LIE|","LIE Loi sur les installations électriques (RS734.0)|",49,2025-05-03
+"Signification de l'acronyme LNB|","LNB Low Noise Block Converter|",50,2025-05-03
+"Signification de l'acronyme LNC|","LNC Low Noise Converter|",51,2025-05-03
+"Signification de l'acronyme LTC|","LTC Loi sur les télécommunications (RS784.10)|",52,2025-05-03
+"Signification de l'acronyme LTE|","LTE Long Term Evolution (standard 4G+ jusqu'à 1 Gbit/s)|",53,2025-05-03
+"Signification de l'acronyme LWL(FO)|","LWL Lichtwellenleiter(FO Fibre optique)|",54,2025-05-03
+"Signification de l'acronyme NAG|","NAG Unité de terminaison du réseau|",55,2025-05-03
+"Signification de l'acronyme NAS|","NAS Network Attached Storage|",56,2025-05-03
+"Signification de l'acronyme NEXT|","NEXT Near End Crosstalk (paradiaphonie ou diaphonie locale)|",57,2025-05-03
+"Signification de l'acronyme NTP|","NTP Network Termination Point|",58,2025-05-03
+"Signification de l'acronyme NTS|","NTS Point de coupure du réseau|",59,2025-05-03
+"Signification de l'acronyme OFCOM|","OFCOM Office fédéral de la communication|",60,2025-05-03
+"Signification de l'acronyme OM|","OM Optical Multimode|",61,2025-05-03
+"Signification de l'acronyme ONT|","ONT Optical Network Termination ( FO ⇒ Cu )|",62,2025-05-03
+"Signification de l'acronyme OS|","OS Optical Single Mode|",63,2025-05-03
+"Signification de l'acronyme OSI|","OSI Open Systems Interconnection|",64,2025-05-03
+"Signification de l'acronyme OTDR|","OTDR Optical Time Domain Reflectrometry|",65,2025-05-03
+"Signification de l'acronyme OTO|","OTO Optical Telecommunications Outlet|",66,2025-05-03
+"Signification de l'acronyme PBX|","PBX Private Branch Exchange (voir ACU)|",67,2025-05-03
+"Signification de l'acronyme PCM|","PCM Pulse Code Modulation|",68,2025-05-03
+"Signification de l'acronyme PoE|","PoE Power over Ethernet|",69,2025-05-03
+"Signification de l'acronyme POF|","POF Plastic Optical Fibre|",70,2025-05-03
+"Signification de l'acronyme POP|","POP Point of Presence|",71,2025-05-03
 "Signification de l'acronyme POTS|","POTS Plain Old Telephony System (le bon vieux service téléphonique)|",72,2025-05-03
 "Signification de l'acronyme PSK|","PSK Phase Shift Keying|",73,2025-05-03
 "Signification de l'acronyme PSTN|","PSTN Public Switched Telephone Network (réseau téléphonique public commuté)|",74,2025-05-03
@@ -95,11 +96,12 @@ question_content,answer_content,box_number,last_reviewed
 "Signification de l'acronyme TP|","TP Twisted Pair|",95,2025-05-03
 "Signification de l'acronyme UDP|","UDP User Datagram Protocol|",96,2025-05-03
 "Signification de l'acronyme UMTS|","UMTS Universal Mobile Telecommunication System|",97,2025-05-03
-"Signification de l'acronyme USV|","USV Onduleur|",98,2025-05-03
-"Signification de l'acronyme UTP|","UTP Unshielded Twisted Pair|",99,2025-05-03
-"Signification de l'acronyme VDSL|","VDSL Very high data rate Digital Subscriber Line|",100,2025-05-03
-"Signification de l'acronyme VoIP|","VoIP Voice over IP|",101,2025-05-03
-"Signification de l'acronyme VPN|","VPN Virtual Private Network|",102,2025-05-03
-"Signification de l'acronyme WiFi Calling|","WiFi Calling Réseau mobile par WLAN|",103,2025-05-03
-"Signification de l'acronyme WiFi|","WiFi Wireless Fidelity|",104,2025-05-03
-"Signification de l'acronyme WLAN|","WLAN Wireless Local Area Network|",105,2025-05-03
+"Signification de l'acronyme USB|","USB Universal Serial Bus|",98,2025-05-03
+"Signification de l'acronyme USV|","USV Onduleur|",99,2025-05-03
+"Signification de l'acronyme UTP|","UTP Unshielded Twisted Pair|",100,2025-05-03
+"Signification de l'acronyme VDSL|","VDSL Very high data rate Digital Subscriber Line|",101,2025-05-03
+"Signification de l'acronyme VoIP|","VoIP Voice over IP|",102,2025-05-03
+"Signification de l'acronyme VPN|","VPN Virtual Private Network|",103,2025-05-03
+"Signification de l'acronyme WiFi Calling|","WiFi Calling Réseau mobile par WLAN|",104,2025-05-03
+"Signification de l'acronyme WiFi|","WiFi Wireless Fidelity|",105,2025-05-03
+"Signification de l'acronyme WLAN|","WLAN Wireless Local Area Network|",106,2025-05-03
