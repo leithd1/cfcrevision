@@ -130,6 +130,25 @@ document.addEventListener('DOMContentLoaded', function() {
       });
   }
   
+
+  document.querySelectorAll('.box').forEach(box => {
+    box.addEventListener('click', function(event) {
+        // Scroller jusqu'au conteneur des cartes
+        const container = document.getElementById('cards-list-container');
+        if (container) {
+            container.classList.remove('hidden'); // Affiche le conteneur si nécessaire
+            container.scrollIntoView({ behavior: 'smooth', block: 'start' }); // Scroll fluide
+        }
+        // Empêche toute autre action comme l'ouverture de la modale
+        event.stopPropagation();
+        event.preventDefault();
+    });
+});
+
+
+
+
+
   // Mettre à jour les compteurs et les temps de révision
   function updateBoxCounters() {
       boxes.forEach((box, index) => {
