@@ -5,3 +5,15 @@ question_content,answer_content,box_number,last_reviewed
 "Que signifie l'acronyme SIP ?","Session Initiation Protocol est un protocole de communication standard ouvert de gestion de sessions souvent utilisé dans les télécommunications multimédia (son, image, etc.). SIP partage de nombreuses similitudes avec le protocole HTTP (Hypertext Transfer Protocol) comme le codage en ASCII et les codes de réponse. ",4,2025-04-30
 "Que signifie l'acronyme VoIP ?","Voice Over Internet Protocol",5,2025-04-30
 "Chez Swisscom, que sont les SIP Credentials ?","Les SIP Credentials vous permettent d’utiliser votre numéro fixe Swisscom dans le monde entier, sur des appareils et des clients VoIP de fournisseurs tiers ainsi que sur les téléphones SIP Swisscom. Une fois la configuration effectuée, les appels sont décomptés via votre abonnement fixe. Les coûts sont identiques avec ceux des appels normaux sur le réseau fixe. Les SIP Credentials se composent d’un nom d’utilisateur, d’un nom d’authentification et d’un mot de passe. Ces données doivent absolument rester confidentielles pour éviter que d’autres personnes téléphonent à vos frais.",6,2025-04-30
+"En télécommunication, expliquez le dessin ci-dessous|2017_03_11_13_27_24_1489235244_Q.jpg","Le PIB (Point d'introduction dans le bâtiment) (building entry point) établit la jonction optique entre la ligne de raccordement (câble principal et câble d'introduction dans l'immeuble) et la colonne montante pour le FTTH. C'est dans le PIB
+que le câble extérieur est connecté au
+câble intérieur avec l'aide d'un appareil d'épissage par fusion.
+L'OFCOM précise les types de câbles, les exigences de qualité pour les épissures ainsi que l'installation et/ou le positionnement du PIB.|",15,"2022-03-31"
+"Décrire les abréviations de ce dessin ?|2017_03_11_18_14_21_1489252461_Q.jpg","PRI Point de raccordement de l'immeuble.
+NTS Point de coupure réseau cuivre(Netz-TrennStelle)
+
+'|2017_03_11_18_14_21_1489252461_R.jpg",16,"2022-03-31"
+"Pour le réseau câblé à haut débit (CATV), vous devez connaître le nom des zones principales.|2017_03_11_23_47_36_1489272456_Q.jpg","Accès, colonne montante, câblage d'appartement|2017_03_11_23_47_36_1489272456_R.jpg",17,"2022-03-31"
+"C'est un schéma de distribution en télécom. Vous devez nommer les zones ""cachées"".|2017_03_12_19_41_25_1489344085_Q.jpg","Voici la réponse par l'image...|2017_03_12_19_41_25_1489344085_R.jpg",18,"2022-03-31"
+"C'est un schéma de distribution en télécom. Vous devez nommer les zones ""cachées"".|2017_03_12_21_10_44_1489349444_Q.jpg","Voici la réponse par l'image...|2017_03_12_21_10_44_1489349444_R.jpg",19,"2022-03-31"
+"Nommer les éléments indiqués par les flèches.|2017_04_16_13_31_26_1492342286_Q.jpg","Selon les DIT (avec la faute d'orthographe d'origine). Chapitre: Mises à la terre et liaison équipotentielle. (PA) Potentialausgleich... Merci aux traducteurs. |2017_04_16_13_31_26_1492342286_R.jpg",43,"2022-03-31"

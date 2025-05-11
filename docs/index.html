@@ -40,6 +40,17 @@
 </head>
 <body class="bg-gray-50 text-gray-800 p-5">
     <div class="container mx-auto max-w-6xl">
+        <!-- Nouvelle section de navigation -->
+        <div class="mb-6 flex flex-wrap gap-3">
+            <button onclick="window.open('https://cfctselec.github.io/cfcflashcards/', '_blank');" 
+                    class="bg-primary text-white px-4 py-2 rounded hover:bg-pink-700 transition-colors">
+                D'autres façons de réviser votre CFC
+            </button>
+            <button onclick="window.location.href='https://qrhd1.github.io/oldcfc/';" 
+                    class="bg-secondary text-white px-4 py-2 rounded hover:bg-orange-700 transition-colors">
+                Retour
+            </button>
+        </div>        
         <header class="text-center mb-5">
             <h1 class="text-3xl font-bold text-gray-800">Leitner Box</h1>
         </header>
@@ -48,6 +59,7 @@
             <select id="deck-selector" class="p-2 border rounded min-w-[250px]">
                 <option value="">Choisir un jeu de flashcards</option>
                 <option value="flashcards_TC_ACCRONYMES.csv">(TC) Acronymes</option>
+                <option value="questions_NORMES.csv">(DT) NIBT</option>
                 <option value="flashcards2.csv">Questions diverses</option>
             </select>
             <button id="start-btn" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Commencer</button>
