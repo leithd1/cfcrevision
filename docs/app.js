@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', function() {
   let currentDeck = '';
   
   // Intervalles de révision en heures (1, 3, 9, 27, 81)
-  const reviewIntervals = [1, 3, 9, 27, 81];
+  //const reviewIntervals = [1, 3, 9, 27, 81];
+  const reviewIntervals = [12, 24, 48, 65, 81];
   
   // Éléments du DOM
   const accordionBtn = document.querySelector('.accordion-btn');
