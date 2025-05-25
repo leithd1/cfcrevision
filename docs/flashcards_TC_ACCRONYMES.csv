@@ -2,6 +2,7 @@ question_content,answer_content,box_number,last_reviewed
 "Signification de l'acronyme ACR|","ACR Attenuation to Crosstalk Ratio. Lors de la transmission sur câble à paire torsadée, atténuation et diaphonie agissent ensemble. Leur ratio (ACR-N) indique la qualité réelle, proche d’un rapport signal/bruit|",1,2025-05-03
 "Signification de l'acronyme ACU|","ACU Autocommutateur d'usagers (voir PBX)|",2,2025-05-03
 "Signification de l'acronyme AM|","AM Modulation d'amplitude|",3,2025-05-03
+"Signification de l'acronyme ASI|","ASI Alimentation Sans Interruption (Onduleur)|",2,2025-05-03
 "Signification de l'acronyme BEP(HAK)|","BEP Building Entry Point pour fibre optique(Hausanschlusskasten)|",4,2025-05-03
 "Signification de l'acronyme BRI|","BRI Basic Rate Interface|",5,2025-05-04
 "Signification de l'acronyme CATV|","CATV TV par câble|",6,2025-05-03
@@ -98,7 +99,7 @@ question_content,answer_content,box_number,last_reviewed
 "Signification de l'acronyme UDP|","UDP User Datagram Protocol|",97,2025-05-03
 "Signification de l'acronyme UMTS|","UMTS Universal Mobile Telecommunication System|",98,2025-05-03
 "Signification de l'acronyme USB|","USB Universal Serial Bus|",99,2025-05-03
-"Signification de l'acronyme USV|","USV Onduleur|",100,2025-05-03
+"Signification de l'acronyme USV (ASI)|","USV Onduleur; ASI (Alimentation Sans Interruption|",100,2025-05-03
 "Signification de l'acronyme UTP|","UTP Unshielded Twisted Pair|",101,2025-05-03
 "Signification de l'acronyme VDSL|","VDSL Very high data rate Digital Subscriber Line|",102,2025-05-03
 "Signification de l'acronyme VoIP|","VoIP Voice over IP|",103,2025-05-03
